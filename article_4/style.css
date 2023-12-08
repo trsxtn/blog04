@@ -2,7 +2,7 @@
 selectors). */
 body {
   margin: 0;
-  background-image: url(https://i.pinimg.com/originals/e7/49/97/e7499757bf3a6628a2bbfc74a1df01b8.gif);
+  background-image: url(https://images4.alphacoders.com/114/1146880.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-family: arial, sans-serif;
@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  background-color: green;
+  background-color: #000000;
   color: #fff;
   padding: 15px 0;
   max-width: 600px;
@@ -28,7 +28,7 @@ main {
 }
 
 article {
-  background-color: greenyellow;
+  background-color: #fff;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 5px;

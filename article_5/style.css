@@ -2,18 +2,18 @@
 selectors). */
 body {
   margin: 0;
-  background-image: url(https://i.pinimg.com/originals/e7/49/97/e7499757bf3a6628a2bbfc74a1df01b8.gif);
+  background-image: url(https://i.pinimg.com/originals/72/d3/a3/72d3a32d3a6271e46d0e6bb25aafc5d0.gif);
   background-repeat: no-repeat;
   background-size: cover;
   font-family: arial, sans-serif;
   font-size: 14px;
-  color: #333;
+  color: #fff;
   padding: 15px;
   text-align: center;
 }
 
 header {
-  background-color: green;
+  background-color: #000000;
   color: #fff;
   padding: 15px 0;
   max-width: 600px;
@@ -22,22 +22,22 @@ header {
 }
 
 main {
-  max-width: 400px;
-  margin: 0px auto;
+  max-width: 500px;
+  color: #fff;
   text-align: left;
+  margin: 0px auto;
 }
 
 article {
-  background-color: greenyellow;
+  background-color: #000000;
   padding: 20px;
-  margin-bottom: 20px;
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
 }
 
 h2 {
-  color: #333;
   text-align: center;
+  color: cyan;
 }
 
 .image {
